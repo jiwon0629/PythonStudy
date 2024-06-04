@@ -1,9 +1,6 @@
-numpy란?  
+## numpy란?  
 
 Numpy는 C언어로 구현된 파이썬 라이브러리  
-
 Numerical Python 줄임말  
-
 고성능의 수치계산을 위해 제작  
-
 벡터 및 행렬 연산에 효율적  
