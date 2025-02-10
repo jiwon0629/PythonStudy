@@ -54,7 +54,11 @@ ex) color = ['red', 'black', 'purple']
 color.insert(0, 'orange')
 color -> ['orange', 'red', 'black', 'purple']
 
-
+remove() 함수
+리스트에 있는 특정 값을 지우는 기능
+ex) color = ['red', 'black', 'purple']
+color.remove('red')
+color -> ['black', 'purple']
 
 
 
