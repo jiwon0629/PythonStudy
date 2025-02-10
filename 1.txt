@@ -60,7 +60,10 @@ ex) color = ['red', 'black', 'purple']
 color.remove('red')
 color -> ['black', 'purple']
 
-
+패킹(Packing), 언패킹(Unpacking)
+ex) t = [1, 2, 3]  #1, 2, 3을 변수 t에 패킹
+a,b,c = t
+print(t,a,b,c) -> [1,2,3] 1 2 3
 
 
 
