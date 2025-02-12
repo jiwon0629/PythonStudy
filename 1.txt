@@ -142,13 +142,14 @@ print(test(1,2,3,4,5))
 출력 : (3, 4, 5)
        NONE
 
+가변인수 *는 반드시 일반적인 키워드 인수가 모두 끝난 후 넣어야 한다.
 ex) def test(*args):
         x, y, *z = args   #*z처럼 사용될 경우 인덱스로 사용이 가능하다
         return x, y, z
 print(test(3,4,5)
 출력 : (3, 4, [5])
 
-
+키워드 가변 인수(keyword variable-length arguments)
 
 
 
