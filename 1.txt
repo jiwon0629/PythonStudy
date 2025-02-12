@@ -150,9 +150,20 @@ print(test(3,4,5)
 출력 : (3, 4, [5])
 
 키워드 가변 인수(keyword variable-length arguments)
-
-
-
+가변 인수는 변수의 순서대로 튜플 형태로 저장된다.
+가변 인수는 변수의 이름을 지정할 수 없다는 단점을 보완하는 방법
+가변 인수와는 달리 **로 표기한다.
+ex) def test(**kwargs):
+        print(kwargs)
+        print("First value is {first}".format(**kwargs))
+        print("Second value is {second}".format(**kwargs))
+        print("Third value is {third}".format(**kwargs))
+test(first = 3, second = 4, third = 5)
+출력
+{'first' : 3, 'second' : 4, 'third' : 5}
+First value is 3
+Second value is 4
+Third value is 5
 
 
 
