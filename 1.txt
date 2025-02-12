@@ -131,10 +131,16 @@ format() 함수
 매개변수 개수가 정해지지 않고 변수를 묶어 주는 역할
 ex) def test(a, b, *args):
         return a + b + sum(args)
-print(test(1,2,3,4,5)
+print(test(1,2,3,4,5))
 출력 : 15
 
-
+튜플(tuple) 자료형
+결과값이 괄호로 묶여 출력되는 자료형
+ex) def test(a, b, *args):
+        print(args)
+print(test(1,2,3,4,5))
+출력 : (3, 4, 5)
+       NONE
 
 
 
