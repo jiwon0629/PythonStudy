@@ -126,6 +126,33 @@ print_something(your_name = "TEAMLAB", my_name = "Sungchul")
 format() 함수
 {}안에 내용을 대입하는 것
 
+가변인수(variable-length arguments)
+인자를 정하지않고 변수를 묶어준다.
+매개변수 개수가 정해지지 않고 변수를 묶어 주는 역할
+ex) def test(a, b, *args):
+        return a + b + sum(args)
+print(test(1,2,3,4,5)
+출력 : 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
