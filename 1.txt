@@ -86,7 +86,8 @@ b = 1
 a is b -> true
 a==b -> true
 
-
+함수(fucntion)
+어떤 일을 수행하는 코드의 덩어리, 또는 코드의 묶음
 
 
 
