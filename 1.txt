@@ -176,7 +176,11 @@ Third value is 5
 % 서식과 format() 함수
 문자열의 서식(format)을 설정할 때, print() 함수는 기본적인 추력 형식 외에 % 서식과 format() 함수를
 구문으로 사용하여 출력 양식을 지정할 수 있다.
-
+ex)
+print("%d %d %d" %(1, 2, 3))
+print("{} {} {}".format("a", "b", "c"))
+출력 : 1 2 3
+      a b c
 
 
 
