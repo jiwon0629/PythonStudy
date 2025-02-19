@@ -165,7 +165,10 @@ First value is 3
 Second value is 4
 Third value is 5
 
-
+문자열(String)
+애플리케이션을 만들거나 데이터를 분석할 때, 매우 중요하게 다루는 자료형 중 하나이다.
+문자열은 시쿼스 자료형(sequence data type)이다.
+시퀀스 자룐
 
 
 
