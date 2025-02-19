@@ -182,7 +182,13 @@ print("{} {} {}".format("a", "b", "c"))
 출력 : 1 2 3
       a b c
 
-
+% 서식
+'%자료형 %(값)'
+ex)
+print("I eat %d apples." %3)   #','대신에 %를 쓴다고 생각
+print("I eat %s apples." % "five")
+출력 : I eat 3 apples.
+      I eat five apples.
 
 
 
