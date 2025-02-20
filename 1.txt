@@ -198,7 +198,8 @@ print("I eat %s apples." % "five")
 큐(queue)
 먼저 들어온 값으 먼저 나갈 수 있도록 해 주는 자료구조(first in first out)
 
-
+튜플(tuple)
+리스트와 같지만, 데이터의 변경을 허용하지 않는 자료구조
 
 
 
