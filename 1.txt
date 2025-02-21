@@ -219,7 +219,8 @@ pop : 데이터를 추출하는 것
 큐
 FIFO(First In First Out)
 
-
+튜플
+소괄호를 사용하면 튜플, 중괄호를 사용하면 list
 
 
 
