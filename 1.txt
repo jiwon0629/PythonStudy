@@ -211,8 +211,10 @@ print("I eat %s apples." % "five")
 collections 모듈
 위에 열거된 여러 자료구조를 효율적으로 사용할 수 있도록 지원하는 파이썬 내장(built-in) 모듈
 
-
-
+스택
+LIFO(Last In First Out)
+push : 데이터를 저장하는 것
+pop : 데이터를 추출하는 것
 
 
 
