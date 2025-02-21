@@ -216,6 +216,8 @@ LIFO(Last In First Out)
 push : 데이터를 저장하는 것
 pop : 데이터를 추출하는 것
 
+큐
+FIFO(First In First Out)
 
 
 
