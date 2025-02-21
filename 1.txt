@@ -237,7 +237,8 @@ ex) from collections import deque   # stack과 queue를 제공하는 모듈
 split() 함수
 문자열을 분리할 수 있다.
 
-
+join() 함수
+문자열을 결합할 수 있다.
 
 
 
